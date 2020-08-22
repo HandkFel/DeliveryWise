@@ -8,7 +8,7 @@ You can execute it on Windows by just double clicking on release\DeliveryWise.ex
 
 // User Guide //
 
-After execution a window opens up. Now follow the instructions on the bottom of the window (steps 1 - 3)
+After execution a window opens up. Now follow the instructions on the bottom of the window (steps 1 - 3). Have fun planning your deliveries!
 
 // COMPILING //
 
@@ -21,4 +21,6 @@ The Software was compiled using Qt 5.12.8 (All Qt Versions 4.6 to 5.12 work as w
 3. Execute qmake
 4. Hit the build button
 5. Finished!
+
+References: I used the QCustomPlot Library (https://www.qcustomplot.com/index.php/download) to plot my delivery routes
 
