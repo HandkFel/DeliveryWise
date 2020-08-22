@@ -1,5 +1,5 @@
 # DeliveryWise
-// DeliveryWise date: 22.0.2020 //
+// DeliveryWise date: 22.08.2020 //
 
 // Executing the Software //
 
